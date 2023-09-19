@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+p {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  margin: auto;
+  text-align: center;
+}
